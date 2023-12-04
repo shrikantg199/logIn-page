@@ -4,7 +4,9 @@ A basic login page implementation using HTML and CSS.
 
 ## Screenshot
 
-![Login Page Screenshot]()
+<img src="screenshot.png" alt="Login Page Screenshot" width="600"/>
+
+
 
 ## Setup
 
